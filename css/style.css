@@ -9,4 +9,22 @@
 
     /* Neutral Colors */
     --clr-ntrl-min: #FFFFFF;
+  /* Typography */
+    /* Font Families */
+    --ff-base: "Figtree", sans-serif;
+
+    /* Font Sizes */
+    --fs-sm: 1.4rem;
+    --fs-md: 1.6rem;
+    --fs-lg: 2.4rem;
+
+    /* Font Weights */
+    --fw-medium: 500
+    --fw-extrabold: 800;
+
+    /* Line Heights */
+    --lh-md: 1.5;
+
+    /* Letter spacings. */
+    --ls-normal: 0em;
 }
