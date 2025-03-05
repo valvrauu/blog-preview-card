@@ -1,0 +1,12 @@
+:root {
+  /* Colors */
+    /* Base Colors */
+    --clr-base: #6B6B6B;
+    --clr-base-dk: #111111;
+
+    /* Primary Colors */
+    --clr-primary: #F4D04E;
+
+    /* Neutral Colors */
+    --clr-ntrl-min: #FFFFFF;
+}
