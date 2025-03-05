@@ -9,6 +9,7 @@
 
     /* Neutral Colors */
     --clr-ntrl-min: #FFFFFF;
+
   /* Typography */
     /* Font Families */
     --ff-base: "Figtree", sans-serif;
@@ -27,6 +28,7 @@
 
     /* Letter spacings. */
     --ls-normal: 0em;
+
   /* Spacing */
   --spacing-xxs: .4rem;
   --spacing-xs: .8rem;
