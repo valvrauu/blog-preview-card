@@ -1,0 +1,37 @@
+:root {
+  /* Colors */
+    /* Base Colors */
+    --clr-base: #6B6B6B;
+    --clr-base-dk: #111111;
+
+    /* Primary Colors */
+    --clr-primary: #F4D04E;
+
+    /* Neutral Colors */
+    --clr-ntrl-min: #FFFFFF;
+
+  /* Typography */
+    /* Font Families */
+    --ff-base: "Figtree", sans-serif;
+
+    /* Font Sizes */
+    --fs-sm: 1.4rem;
+    --fs-md: 1.6rem;
+    --fs-lg: 2.4rem;
+
+    /* Font Weights */
+    --fw-medium: 500
+    --fw-extrabold: 800;
+
+    /* Line Heights */
+    --lh-md: 1.5;
+
+    /* Letter spacings. */
+    --ls-normal: 0em;
+
+  /* Spacing */
+  --spacing-xxs: .4rem;
+  --spacing-xs: .8rem;
+  --spacing-sm: 1.2rem;
+  --spacing-md: 2.4rem;
+}
