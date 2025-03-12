@@ -1,0 +1,31 @@
+:root {
+  /* Colors */
+  --color-yellow: hsl(47, 88%, 63%);
+
+  --color-gray-500: #6B6B6B;
+  --color-gray-950: #111111;
+
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+
+  /* Typography */
+  --font-primary: "Figtree", sans-serif;
+
+  --font-base: 1.6rem;
+  --font-xs: 1.2rem;
+  --font-sm: 1.4rem;
+  --font-lg: 2rem;
+  --font-xl: 2.4rem;
+
+  --font-medium: 500;
+  --font-extrabold: 800;
+
+  --leading-normal: 1.5;
+  --tracking-normal: 0em;
+
+  /* Spacings */
+  --spacing-xs: .4rem;
+  --spacing-sm: .8rem;
+  --spacing-md: 1.2rem;
+  --spacing-lg: 2.4rem;
+}
