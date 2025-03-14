@@ -28,6 +28,10 @@
   --spacing-sm: .8rem;
   --spacing-md: 1.2rem;
   --spacing-lg: 2.4rem;
+
+  /* UI Configuration */
+  --color-text: var(--color-gray-500);
+  --color-background: var(--color-yellow);
 }
 
 /* CSS Minimal Reset */
